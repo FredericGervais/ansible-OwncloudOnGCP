@@ -1,1 +1,11 @@
-a
+#
+#
+#
+
+
+gcp_project: PROJECT-NAME
+gcp_cred_kind: serviceaccount
+gcp_cred_file: credential.json
+zone: "us-central1-a"
+region: "us-central1"
+network_name: "ansible-network"
